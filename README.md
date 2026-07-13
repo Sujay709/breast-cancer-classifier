@@ -64,7 +64,7 @@ targets recall on the malignant class instead.
 ## Limitations
 
 This is a learning project, not a deployable diagnostic tool. The 30 input
-features aren't things like symptoms or an X-ray — they're measurements
+features aren't things like symptoms or an X-ray, they're measurements
 computed from a digitized image of a fine needle aspirate (FNA), a medical
 imaging pipeline that takes an actual biopsy sample, images the cell nuclei
 under a microscope, and mathematically computes these 30 features from that
